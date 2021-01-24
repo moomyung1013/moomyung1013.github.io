@@ -12,16 +12,16 @@ url: https://moomyung1013.github.io/ # the base hostname & protocol for your sit
 permalink: /:year-:month/:title
 timezone:
 
-favicon: /assets/img/favicon.ico
+favicon: /assets/img/cat2.ico
 
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
+  name: Lee DalBok
+  pic: /assets/img/cat.png
+  picAlt: "dalbok"
+  job: 컴퓨터공학과 학생
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
